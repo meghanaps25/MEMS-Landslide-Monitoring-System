@@ -35,7 +35,7 @@ If abnormal conditions are detected, alerts are generated instantly.
 
 ---
 
-## 💻 Software & Tools
+## Software & Tools
 - Embedded C  
 - Arduino IDE  
 - Serial Communication  
