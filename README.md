@@ -1,6 +1,6 @@
 # MEMS Based Distributed Sensor Network for Landslide Prediction and Alert Generation
 
-## 📌 Project Overview
+##  Project Overview
 Landslides are a major natural hazard in hilly and high-rainfall regions.  
 This project presents a **MEMS-based distributed sensor network** that continuously monitors **soil pressure and rainfall conditions** to predict potential landslide events and generate early alerts.
 
@@ -8,7 +8,7 @@ The system uses **MEMS pressure sensors** and a **raindrop sensor** connected to
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Real-time monitoring of soil pressure and rainfall
 - Early detection of landslide-prone conditions
 - Automated alert generation using GSM
@@ -17,14 +17,14 @@ The system uses **MEMS pressure sensors** and a **raindrop sensor** connected to
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 The system consists of multiple MEMS pressure sensors deployed in landslide-prone zones along with a rainfall sensor.  
 Sensor data is processed by an Arduino microcontroller and compared with predefined thresholds.  
 If abnormal conditions are detected, alerts are generated instantly.
 
 ---
 
-## 🛠️ Hardware Components
+## Hardware Components
 - Arduino Uno  
 - MEMS Pressure Sensors  
 - Raindrop Sensor  
@@ -43,7 +43,7 @@ If abnormal conditions are detected, alerts are generated instantly.
 
 ---
 
-## ⚙️ Working Principle
+## Working Principle
 1. MEMS pressure sensors measure soil pressure continuously.  
 2. Raindrop sensor monitors rainfall intensity.  
 3. Arduino compares sensor data with threshold values.  
@@ -54,7 +54,7 @@ If abnormal conditions are detected, alerts are generated instantly.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 MEMS-Landslide-Monitoring-System/
 │
 ├── code/ # Arduino source code
